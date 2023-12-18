@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed to selecting new header tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* changed to selecting aside as tag */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +190,7 @@ aside {
     font-size: 36px;
 }
 
+/* although I changed to a footer tag I have footer as class so selected the class */
 .footer {
     padding: 30px;
     clear: both;
